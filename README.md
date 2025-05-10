@@ -3,8 +3,5 @@ Installation script for GymPages for development purposes. To be used with GymPa
 
 1. Download install.sh as a .zip file, unzip, and move install.sh to home directory
 
-2. Execute
-'''
-. install.sh
-'''
+2. Execute ```. install.sh```
 
